@@ -4,7 +4,7 @@ A very simple React app created with Andrei Neagoie.
 ## Stack used:
 - React
 - Tachyons
-- [RoboHas](https://robohash.org)
+- [RoboHash](https://robohash.org)
 
 ## How to use:
 1. Clone this repo
